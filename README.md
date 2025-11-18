@@ -3,8 +3,8 @@
 
 ## Solutions to Leetcode problems in Java
 
-## [Current Leetcode profile: Solved 1800+ Problems](https://leetcode.com/varunsjsu/)
-## [Previous Leetcode profile: Solved 759 Problems](https://leetcode.com/varunu28/)
+## [Current Leetcode profile: Solved ... Problems](https://leetcode.com/u/VOTHITHAOVY/)
+
 
 Problem Category | Count
 --- | --- 
